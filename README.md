@@ -49,7 +49,7 @@ By sharing your perspective and highlighting areas in your intrest, you will est
 # Read more
 
 ## Example of a Research Paper Thread
-Split content across multiple tweets for clarity and impact.
+Split content across multiple tweets for clarity and impact. <!-- Need links, not (only) a picture? -->
 <p align="center">
   <img src="assets/example_paper_thread1.jpg" width="300" alt="Example of a Paper Thread">
 </p>
