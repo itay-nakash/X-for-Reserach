@@ -33,7 +33,7 @@ Twitter limits each tweet to 280 characters. Researchers often use Twitter Threa
 2. **Follow Relevant Researchers**  
    - Once your profile is set up with a professional image and bio, follow researchers in your field.
    - Check followers of teammates or lab members for additional connections. Many will follow you back, enriching your feed and professional network.
-
+1. Unfollow! If you see unvaluable things in your feed, be rutheless, the feed is not a oneway street, let the algorithm know what you want to see, remove people you do not want to see, (block them if they keep popping up, or unfollow those that reshare their content).
 
 ## Get Exposure
 
@@ -45,7 +45,8 @@ Share your thoughts on trending topics, recent publications, or interesting find
 By sharing your perspective and highlighting areas in your intrest, you will establish your voice as an active contributor to ongoing conversations in your area of expertise.
 1. You are the product. What value can you bring to the world? Are there specific things you value when you see them? Are there things that are easy for you to write there and others (from the right community) care about?
 1. No rules. Forget about formalisms, what works is what people enjoy reading, it can be fun to read, deep but without the uninteresting parts, funny, just the bottom lines, argumentative.
-
+1. Followers are people. When you connect with someone personally they are much more likely to see you as a human being (to be followed) than as a number. So comment, DM and talk to people.
+1. People Follow back. People especially at your +- followers counts (e.g. up to 10 times more followers?) are likely to follow back if you follow them, and even more so if you followed them after interaction. This is a cynical view of what following is, right? It might ruin your [feed](## Follow Relevant Research trends), so make sure to clean your feed too if it was a mistake.
 # Read more
 
 ## Example of a Research Paper Thread
