@@ -17,11 +17,14 @@ A strong profile attracts relevant followers and helps build credibility. Active
 
 ------
 
-## 1. Setting Up Your Profile <!-- too basic? -->
+## 1. The very beginning
 
 ### Character Limits
 Twitter limits each tweet to 280 characters. Researchers often use Twitter Threads—series of connected tweets—to share insights from papers or detailed content.
 
+### Fill the Information
+There is a picture, BIO, your handle and name can be changed (pick a short handle and after you have some fame don't change it).
+Filling it makes for a more serious look.
 ---
 
 ## Follow Relevant Research trends
@@ -47,9 +50,16 @@ By sharing your perspective and highlighting areas in your intrest, you will est
 1. No rules. Forget about formalisms, what works is what people enjoy reading, it can be fun to read, deep but without the uninteresting parts, funny, just the bottom lines, argumentative.
 1. Followers are people. When you connect with someone personally they are much more likely to see you as a human being (to be followed) than as a number. So comment, DM and talk to people.
 1. People Follow back. People especially at your +- followers counts (e.g. up to 10 times more followers?) are likely to follow back if you follow them, and even more so if you followed them after interaction. This is a cynical view of what following is, right? It might ruin your [feed](## Follow Relevant Research trends), so make sure to clean your feed too if it was a mistake.
+1. If you have a specific resource you care about, onetime release is not enough. Keep updating, do it cross platform etc. No amount of virality once convinces all the users.
 # Read more
 
-## Example of a Research Paper Thread
+## Write Better content
+1. Make the claim short and clear and appealing (no "walls of text" at least at first tweet)
+1. Make a hook. At the first words of the first tweet the user makes the strongest decision, should I read it. 
+1. Multiline tweets capture more scrolling space and hence attention
+1. Images and better yet videos are great (especially at beginning of thread).
+1. Call for Action, what do you expect people to do with it? Tell them explicitly.
+# Example of a Research Paper Thread
 Split content across multiple tweets for clarity and impact. <!-- Need links, not (only) a picture? -->
 <p align="center">
   <img src="assets/example_paper_thread1.jpg" width="300" alt="Example of a Paper Thread">
